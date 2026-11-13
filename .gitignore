@@ -1,0 +1,12 @@
+# Supplied/private datasets and regenerated training datasets
+data/
+artifacts/
+
+# Checkpoints and local archives
+*_checkpoints/
+checkpoint-*/
+*.zip
+
+# Python cache
+__pycache__/
+*.pyc
